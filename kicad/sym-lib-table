@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name alarm-clock)(type Legacy)(uri D:/Git/alarm-clock/alarm-clock/alarm-clock.lib)(options "")(descr ""))
+)
